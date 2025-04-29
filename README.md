@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">🌱 I’m currently learning Basics of Machine learning</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsadek12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
@@ -9,10 +13,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Mohamedsadek12/Mohamedsadek12/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/70/b0/40/70b040cdc3356cfb8c15dfad0650a24e.gif"  />
 
 ###
 
@@ -37,5 +37,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/70/b0/40/70b040cdc3356cfb8c15dfad0650a24e.gif"  />
 
 ###
