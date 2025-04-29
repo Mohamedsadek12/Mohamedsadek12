@@ -16,7 +16,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
@@ -32,14 +32,14 @@
 
 ###
 
+<img align="right" height="200" src="https://i.pinimg.com/originals/70/b0/40/70b040cdc3356cfb8c15dfad0650a24e.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-sadek-b28756314/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/70/b0/40/70b040cdc3356cfb8c15dfad0650a24e.gif"  />
 
 ###
