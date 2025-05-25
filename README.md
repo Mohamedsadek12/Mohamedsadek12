@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Mohamed Sadek and I'm passionate in Ai and Machine Learning</h3>
+<h3 align="left">Hi 👋! My name is Mohamed Sadek and I'm passionate about Ai and Machine Learning</h3>
 
 ###
 
