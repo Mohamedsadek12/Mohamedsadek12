@@ -8,13 +8,6 @@
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/9f76816e6f41c739e97a8a64162979baa09c8560b4edf1ff099b03d1c39a5444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f793961613337624979573441414141432f677574732d6265727365726b2d6265727365726b2e676966"  />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsadek12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-sadek-b28756314/" target="_blank">
