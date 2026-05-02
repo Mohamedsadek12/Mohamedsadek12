@@ -2,12 +2,12 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Basics of Machine learning</p>
+<p align="left">🎓 Junior Student at Ain Shams University (ASU), studying AI & Machine Learning</p>
+<p align="left">🌱 I'm currently learning Basics of Machine learning</p>
 
 ###
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/9f76816e6f41c739e97a8a64162979baa09c8560b4edf1ff099b03d1c39a5444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f793961613337624979573441414141432f677574732d6265727365726b2d6265727365726b2e676966"  />
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-sadek-b28756314/" target="_blank">
