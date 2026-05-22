@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Sadek 👋</h1>
 
 <p align="center">
-  <em>AI/ML Engineering Student &nbsp;·&nbsp; Building the future, one model at a time</em>
+  <em>AI/ML Engineering Student &nbsp;·&nbsp;</em>
 </p>
 
 <p align="center">
@@ -82,14 +82,11 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-sadek12" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohamedbensadek973@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
