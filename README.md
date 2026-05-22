@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Mohamed Sadek 👋</h1>
 
+###
+
+<p align="left">🎓 Junior Student at Ain Shams University (ASU), studying AI & Machine Learning</p>
+<p align="left">🌱 I'm currently learning Basics of Machine learning</p>
+
+###
+
+
 <p align="center">
   <em>AI/ML Engineering Student</em>
 </p>
