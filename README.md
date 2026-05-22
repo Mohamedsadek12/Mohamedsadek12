@@ -1,37 +1,104 @@
-<h3 align="left">Hi 👋! My name is Mohamed Sadek and I'm passionate about Ai and Machine Learning</h3>
+<h1 align="center">Hi, I'm Mohamed Sadek 👋</h1>
 
-###
+<p align="center">
+  <em>AI/ML Engineering Student &nbsp;·&nbsp; Building the future, one model at a time</em>
+</p>
 
-<p align="left">🎓 Junior Student at Ain Shams University (ASU), studying AI & Machine Learning</p>
-<p align="left">🌱 I'm currently learning Basics of Machine learning</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Aspiring+AI+%2F+ML+Engineer;Deep+Learning+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
+</p>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-sadek-b28756314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+## 🧠 About Me
+
+- 🎓 Student passionate about **Artificial Intelligence & Machine Learning**
+- 🔭 Currently learning and building projects in **Deep Learning** and **NLP**
+- 🌱 Exploring **LLMs, Transformers, and AI Agents**
+- 💡 Interested in applying AI to solve real-world problems
+- 📍 Based in Egypt 🇪🇬
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### ML / DL Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### AI / LLM Ecosystem
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Large Language Models (LLMs) & Prompt Engineering
+- 🧬 Transformer architectures & Fine-tuning
+- 🔗 Building AI Agents with LangChain
+- 📊 Machine Learning fundamentals & best practices
+
+---
+
+## 🚀 Projects
+
+> 🔨 Working on building a solid project portfolio — stay tuned!
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔜 Coming Soon | ML project in progress | Python, PyTorch |
+| 🔜 Coming Soon | NLP / LLM experiment | HuggingFace, LangChain |
+
+*More projects dropping soon — follow to stay updated!*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSadek&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSadek&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSadek&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/Mohamedsadek12/Mohamedsadek12/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedSadek&style=flat-square&color=2F81F7" alt="Profile Views" />
+</p>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="12" />
-</div>
-
-###
+<p align="center">
+  <em>"The best way to predict the future is to build it." — Alan Kay</em>
+</p>
