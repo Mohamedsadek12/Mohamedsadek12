@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Sadek 👋</h1>
 
 <p align="center">
-  <em>AI/ML Engineering Student &nbsp;·&nbsp;</em>
+  <em>AI/ML Engineering Student</em>
 </p>
 
 <p align="center">
@@ -50,19 +50,6 @@
 - 🧬 Transformer architectures & Fine-tuning
 - 🔗 Building AI Agents with LangChain
 - 📊 Machine Learning fundamentals & best practices
-
----
-
-## 🚀 Projects
-
-> 🔨 Working on building a solid project portfolio — stay tuned!
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔜 Coming Soon | ML project in progress | Python, PyTorch |
-| 🔜 Coming Soon | NLP / LLM experiment | HuggingFace, LangChain |
-
-*More projects dropping soon — follow to stay updated!*
 
 ---
 
