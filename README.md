@@ -56,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSadek&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSadek&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsadek12&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsadek12&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSadek&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsadek12&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
