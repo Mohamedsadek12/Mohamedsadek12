@@ -73,9 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamedsadek12&style=flat-square&color=2F81F7" alt="Profile Views" />
-</p>
-
-<p align="center">
   <em>"The best way to predict the future is to build it." — Alan Kay</em>
 </p>
