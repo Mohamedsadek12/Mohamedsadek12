@@ -59,19 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsadek12&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsadek12&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsadek12&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
